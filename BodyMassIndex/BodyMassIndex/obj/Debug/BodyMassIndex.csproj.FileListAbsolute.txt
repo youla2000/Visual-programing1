@@ -1,0 +1,11 @@
+C:\Users\ST235\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\BodyMassIndex.exe.config
+C:\Users\ST235\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\BodyMassIndex.exe
+C:\Users\ST235\source\repos\BodyMassIndex\BodyMassIndex\bin\Debug\BodyMassIndex.pdb
+C:\Users\ST235\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.AssemblyReference.cache
+C:\Users\ST235\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.SuggestedBindingRedirects.cache
+C:\Users\ST235\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.Form1.resources
+C:\Users\ST235\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.Properties.Resources.resources
+C:\Users\ST235\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.GenerateResource.cache
+C:\Users\ST235\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.csproj.CoreCompileInputs.cache
+C:\Users\ST235\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.exe
+C:\Users\ST235\source\repos\BodyMassIndex\BodyMassIndex\obj\Debug\BodyMassIndex.pdb
